@@ -1,0 +1,6 @@
+@RequisitionSystemApi_HostAddress = http://localhost:5087
+
+GET {{RequisitionSystemApi_HostAddress}}/requisition/
+Accept: application/json
+
+###

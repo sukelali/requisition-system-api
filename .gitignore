@@ -1,0 +1,9 @@
+/.git
+/.vscode
+/.vs
+
+#ignore Web Project system files
+bin/
+obj/
+Properties/
+
